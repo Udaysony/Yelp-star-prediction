@@ -1,2 +1,2 @@
-# Yolo-star-prediction
-YOLO has provided the data set. Using these massive data we need do feature selection. We can select various feature and combine it with the text review. Because of review text, which is essential for predict the star, we need to apply NLP techniques. I have used TF-IDF to vectorize and select useful data. After creating useful data set, I have implemented different Machine learning models and Deep learning models and compared result of each model.
+# Yelp-star-prediction
+Yelp has provided the data set. Using these massive data we need do feature selection. We can select various feature and combine it with the text review. Because of review text, which is essential for predict the star, we need to apply NLP techniques. I have used TF-IDF to vectorize and select useful data. After creating useful data set, I have implemented different Machine learning models and Deep learning models and compared result of each model.
